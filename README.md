@@ -25,3 +25,23 @@ source bin/activate
 - Installation de Django
 
 pip install django  
+
+# Creation du projet src 
+
+dango-admin startproject nomduprojet
+
+
+# Migrate 
+
+- python3 manage.py migrate
+
+# Creation coté admin 
+
+- python3 manage.py creatsuperuser
+
+
+# Demmarage de l'environement
+
+- python3 manage.py runserver
+
+
