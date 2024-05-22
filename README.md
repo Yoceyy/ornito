@@ -28,7 +28,7 @@ pip install django
 
 # Creation du projet src 
 
-dango-admin startproject nomduprojet
+django-startproject nomduprojet
 
 
 # Migrate 
